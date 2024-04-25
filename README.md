@@ -6,9 +6,7 @@
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Motivated Cyber Operations graduate seeking a blue team cybersecurity role to leverage my skills in vulnerability management and data analysis. Committed to continuous learning and ready to contribute to a team focused on proactive defense and network resilience.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
