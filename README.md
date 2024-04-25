@@ -4,7 +4,7 @@
 I’m a recent graduate in Cyber Operations with hands-on experience from IT internships. My troubleshooting skills are exceptional and I have a knack for explaining complex concepts to diverse audiences. I’m known for my commitment to ethical standards in cybersecurity and my readiness to obtain security clearance. My interest lies in blue team roles where I can contribute to proactive defense and network resilience. My long-term career goal is to grow into a Cyber Security Engineer or Cloud Security Engineer role.
 
 ## Objective
-Motivated Cyber Operations graduate seeking a blue team cybersecurity role to leverage my skills in vulnerability management and data analysis. Committed to continuous learning and ready to contribute to a team focused on proactive defense and network resilience.
+Motivated Cyber Operations graduate seeking a blue team cybersecurity role. Committed to continuous learning and ready to contribute to a team focused on proactive defense and network resilience.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
