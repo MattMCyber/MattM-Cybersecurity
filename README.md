@@ -1,9 +1,7 @@
 # MattM-Cybersecurity
 <a href="https://www.linkedin.com/in/mattmoellercyber/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I’m a recent graduate in Cyber Operations with hands-on experience from IT internships. My troubleshooting skills are exceptional and I have a knack for explaining complex concepts to diverse audiences. I’m known for my commitment to ethical standards in cybersecurity and my readiness to obtain security clearance. My interest lies in blue team roles where I can contribute to proactive defense and network resilience. My long-term career goal is to grow into a Cyber Security Engineer or Cloud Security Engineer role.
 
 ## Objective
 Motivated Cyber Operations graduate seeking a blue team cybersecurity role to leverage my skills in vulnerability management and data analysis. Committed to continuous learning and ready to contribute to a team focused on proactive defense and network resilience.
