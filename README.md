@@ -48,7 +48,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<a href="https://www.credly.com/badges/418f081e-c21f-42c3-b88c-bcc4c0bcd573/linked_in_profile"<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/418f081e-c21f-42c3-b88c-bcc4c0bcd573/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 </div>
 
 ## Projects
