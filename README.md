@@ -52,6 +52,7 @@ Motivated Cyber Operations graduate seeking a blue team cybersecurity role. Comm
 - Detection Lab
 - SOC Automation Project
 
-![Basic Active Directory Project](https://github.com/MattMCyber/MattM-Cybersecurity/assets/35616626/ded03ade-d075-4e40-a45f-eddfaa1e3d06)
+![image](https://github.com/MattMCyber/MattM-Cybersecurity/assets/35616626/3ff22dcf-0136-4eaa-9da8-1ddb4b53a10d)
+
 
 
